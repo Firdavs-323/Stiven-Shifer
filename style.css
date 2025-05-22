@@ -1,0 +1,73 @@
+.salom {
+    color: blue;
+    text-align: center;
+}
+.gap {
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px;
+}
+.gap2 {
+    background-color: black;
+    color: white;
+}
+.gap3 {
+    background-color: black;
+    color: white;
+}
+.gap4 {
+    background-color: red;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 20px;
+}
+.gap5 {
+    color: black;
+    border-radius: 15px;
+}
+.gap6 {
+    color: white;
+}
+.text1 {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.tec {
+    text-align: center;
+}
+.text2 {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.text3 {
+    background-color: green;
+    font-size: 25px;
+    color: white;
+    border-radius: 10px;
+}
+.tec2 {
+    text-align: center;
+    background-color: black;
+    font-size: 35px;
+}
+.tec3 {
+    color: aqua;
+    font-size: 20px;
+}
+.tec4 {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.tec5 {
+    background-color: orange;
+    color: white;
+}
+.tec6 {
+    text-align: center;
+}
